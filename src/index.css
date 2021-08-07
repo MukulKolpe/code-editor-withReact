@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    
 }
 
 .top-pane {
@@ -9,6 +10,7 @@ body {
 .pane {
     height: 50vh;
     display: flex;
+    flex-direction: row;
 }
 
 .editor-container {
@@ -56,3 +58,12 @@ body {
     border-bottom-left-radius: .5rem;
     overflow: hidden;
 }
+
+@media (max-width: 768px){
+    .pane {
+        height: 50vh;
+        display: flex;
+        flex-direction: column;
+    }
+}
+
