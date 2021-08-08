@@ -11,17 +11,6 @@ It is the code editor made using React.js. It renders .html, .css and .js code.
 
 Make sure you have node.js installed.
 
-### How to check?
- ```
- node --version
- ```
- ```
- npm --version
- ```
- ```
- npx --version
- ```
-
 ## Setting up locally
 1. Fork this repository.
 2. clone it.
