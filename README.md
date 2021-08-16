@@ -32,3 +32,5 @@ Make sure you have node.js installed.
    
 
 ## Deployed [here](https://code-editor-mukul.netlify.app/)
+
+## [LICENSE](https://github.com/MukulKolpe/code-editor-withReact/blob/main/LICENSE)
