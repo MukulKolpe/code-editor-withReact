@@ -2,6 +2,9 @@
 
 ## Description
 It is the code editor made using React.js. It renders .html, .css and .js code.
+
+## [Code of Conduct](https://github.com/MukulKolpe/code-editor-withReact/blob/main/CODE_OF_CONDUCT.md)
+
 ## Tech-stack Used
 - React.js
 - CSS
